@@ -1,0 +1,9 @@
+{
+  "title": "Headers Schema",
+  "type": "object",
+  "properties": {
+    "x-appid": { "type": "string" }
+  },
+  "additionalProperties": false,
+  "required": ["x-appid"]
+}
